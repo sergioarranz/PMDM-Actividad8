@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ExamenAndroid</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="com.twitter.sdk.android.CONSUMER_KEY">ouXPR0KN9g8P3lMabiMEDXY8b</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET">kR7KQPu8QQqcZ3dDy6BEhaTcfj94oP67rV7BJ7lWlcdqnysf3k</string>
+</resources>
